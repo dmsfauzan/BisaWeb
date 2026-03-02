@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: https://bisa-web-psi.vercel.app/
 
 ## How can I edit this code?
 
