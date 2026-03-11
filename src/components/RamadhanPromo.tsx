@@ -176,7 +176,7 @@ export default function RamadhanPromo() {
 
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed mb-8">
             Dapatkan diskon{" "}
-            <span className="text-primary font-semibold">30% untuk semua paket</span> — hanya
+            <span className="text-primary font-semibold">10% untuk semua paket</span> — hanya
             tersedia selama 10 hari. Hadirkan bisnis Anda secara online sekarang!
           </p>
 
