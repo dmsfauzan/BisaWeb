@@ -160,7 +160,7 @@ export default function RamadhanPromo() {
           className="text-center max-w-3xl mx-auto mb-12"
         >
           <p className="text-sm font-medium text-primary uppercase tracking-wider mb-2">
-            🌙 Spesial Ramadhan 1446 H
+            🌙 Spesial Ramadhan 1447 H
           </p>
 
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground mb-4">
